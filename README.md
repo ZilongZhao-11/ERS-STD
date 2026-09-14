@@ -1,7 +1,7 @@
 # ERS-STD
 This repository contains the instances and results used in our paper about ERS-STD.
 # Instances
-Each instance consists of four components:
+For our ERS-STD instances, each consists of four components:
 - Distance matrix (unit: km), covering depot 0 and all incident sites.
 - Average suppression rate of Emergency Response Teams (ERTs): the original unit is m/min, which is multiplied by 60 to convert to m/h during algorithm execution.
 - Average travel speed of ERTs (unit: km/h).
